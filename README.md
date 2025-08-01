@@ -4,7 +4,8 @@
 # paste file according to branch name folder -> i.e
 
 frontend file in frontend folder 
-  frontend/
+intern-portal/
+frontend/
 ├── public/
 │   └── index.html
 ├── src/
